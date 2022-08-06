@@ -1,15 +1,8 @@
-### Hi there 👋
-
 <!--
 **Mattt47/Mattt47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 -->
 
 ## Hi, My name is Matt
-
-![Profile views](https://gpvc.arturio.dev/mahammadbakr)
 
 
 <a href="#"><img alt="Senior Flutter Developer" src="https://img.shields.io/badge/Senior-Flutter%20Developer-blue"></a>

@@ -5,46 +5,8 @@
 ## Hi, My name is Matt
 
 
-<a href="#"><img alt="Senior Flutter Developer" src="https://img.shields.io/badge/Senior-Flutter%20Developer-blue"></a>
-<a href="#"><img alt="Full Stack Developer" src="https://img.shields.io/badge/Full-Stack%20Developer-lightgrey"></a>  <a href="#"><img alt="Native Android Developer" src="https://img.shields.io/badge/Native-Java%20Developer-red"></a>  
-	
-
-<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Founder-At Solway Software-yellow"></a> 
-
-<samp>
-My Name is Mohammed Bakr, I’m Senior Flutter Developer, I Develop Mobile Applications With Flutter And Dart with 4 years experience in it, Also I used React Native  and Native Android Applications with Java, I’ve been Experienced in Development Field Since Last years of my High School, I'm Also Full Stack MERN developer since i use react, mongodb, node js and express js for backend side and web development. One of my Biggest Hobbies is Writing Codes And Handling Errors.
-	
-</samp>
-
-
-<samp>
-I working as a leader in freelancing team named **SOLWAY** we have been done some projects and we are willing to finish alot more..
-</samp>
-
-
-<samp>
-Our website Sollway here:
-	
-</samp>
-
-<p>
-	
-<a href="https://www.sol-way.com"><img alt="GitHub" src="https://img.shields.io/badge/Website-Solway Software-yellow"></a>
-</p>
-
-
-<samp>
-Our Portfolio as Solway here:
-</samp>
-
-<p>
-    <a href="https://play.google.com/store/apps/dev?id=6938212442942084615"><img alt="HTML" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
-    <a href="https://play.google.com/store/apps/dev?id=6938212442942084615"><img alt="HTML" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
-</p>
-
-
 ### 📕 GitHub Profile
-<img alt="My Github Details" src="https://github-readme-stats.vercel.app/api?username=mahammadbakr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="My Github Details" src="https://github-readme-stats.vercel.app/api?username=Mattt47&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="My Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahammadbakr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 

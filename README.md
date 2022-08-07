@@ -8,7 +8,7 @@
 <br>
 <a href="#"><img alt="ExpressJs Backend Developer" src="https://img.shields.io/badge/ExpressJs-Backend Developer-purple"></a>  
 ![Profile views](https://gpvc.arturio.dev/mattt47)
-
+![](https://komarev.com/ghpvc/?username=mattt47&style=for-the-badge)
 
 
 

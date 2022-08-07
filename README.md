@@ -40,18 +40,20 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<div style="position: absolute;right: 0px;width: 300px;border: 3px solid #73AD21;padding: 15px;">
+<img  src="https://media.giphy.com/media/Vt7tALoHXmcfe/giphy.gif" width="200" height="120" />
+<img  src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" width="200" height="120" />
+<img  src="https://media.giphy.com/media/lmFm5QZMzdmQ8/giphy.gif" width="200" height="120" />
+<img  src="https://media.giphy.com/media/3s0ddui7kadGg/giphy.gif" width="200" height="120" />
+</div>
+
+<br>
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mattt47&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Gifs
 
-<div style="position: absolute;right: 0px;width: 300px;border: 3px solid #73AD21;padding: 15px;">
-<img  src="https://media.giphy.com/media/AIl5hsiqF7Tb1uaMpE/giphy.gif" width="200" height="120" />
-<img  src="https://media.giphy.com/media/JEpGMOvihcH2OlWv8l/giphy.gif" width="140" height="120" />
-<img  src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="140" height="120" />
-<img  src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="140" height="120" />
-</div>
 

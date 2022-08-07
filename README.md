@@ -6,13 +6,18 @@
 <!--![Profile views](https://gpvc.arturio.dev/mattt47?style=for-the-badge)-->
 <!--![Profile views](https://komarev.com/ghpvc/?username=mattt47&style=for-the-badge)-->
 
+<div style="position: absolute;right: 0px;width: 300px;border: 3px solid #73AD21;padding: 15px;">
+<img  src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200" height="120" />
+<img  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" height="120" />
+<img  src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="140" height="120" />
+<img  src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="140" height="120" />
+</div>
+
 
 <a href="#"><img alt="C Developer" src="https://img.shields.io/badge/C-Developer-darkred?style=for-the-badge"></a>
-<a href="#"><img alt="Flutter Developer" src="https://img.shields.io/badge/Flutter-%20Developer-lightblue?style=for-the-badge"></a><br>
+<a href="#"><img alt="Flutter Developer" src="https://img.shields.io/badge/Flutter-%20Developer-lightblue?style=for-the-badge"></a>
 <a href="#"><img alt="ExpressJs Backend Developer" src="https://img.shields.io/badge/ExpressJs-Backend Developer-purple?style=for-the-badge"></a>
-<a href="#"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=mattt47&style=for-the-badge"></a>  
-
-
+<a href="#"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=mattt47&style=for-the-badge&color=ff69b4"></a>
 
 
 # 💻 Tech Stack:
@@ -40,3 +45,13 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mattt47&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Gifs
+
+<div style="position: absolute;right: 0px;width: 300px;border: 3px solid #73AD21;padding: 15px;">
+<img  src="https://media.giphy.com/media/AIl5hsiqF7Tb1uaMpE/giphy.gif" width="200" height="120" />
+<img  src="https://media.giphy.com/media/JEpGMOvihcH2OlWv8l/giphy.gif" width="140" height="120" />
+<img  src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="140" height="120" />
+<img  src="https://media.giphy.com/media/487L0pNZKONFN01oHO/giphy.gif" width="140" height="120" />
+</div>
+

@@ -1,12 +1,13 @@
 
 # Hey Am Matt!
 
+
 <!--<a href="#"><img alt="C++ Developer" src="https://img.shields.io/badge/C++-Developer-yellow"></a>-->
-<a href="#"><img alt="C Developer" src="https://img.shields.io/badge/C-Developer-darkgreen"></a>
+<a href="#"><img alt="C Developer" src="https://img.shields.io/badge/C-Developer-darkred"></a>
 <a href="#"><img alt="Flutter Developer" src="https://img.shields.io/badge/Flutter-%20Developer-lightblue"></a>
 <br>
 <a href="#"><img alt="ExpressJs Backend Developer" src="https://img.shields.io/badge/ExpressJs-Backend Developer-purple"></a>  
-
+![Profile views](https://gpvc.arturio.dev/mattt47)
 
 
 

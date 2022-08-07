@@ -40,11 +40,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 😢 I Will Never Forgot
 <div style="position: absolute;right: 0px;width: 300px;border: 3px solid #73AD21;padding: 15px;">
 <img  src="https://media.giphy.com/media/Vt7tALoHXmcfe/giphy.gif" width="200" height="120" />
 <img  src="https://media.giphy.com/media/g4N6wTrf1v6yQ/giphy.gif" width="200" height="120" />
-<img  src="https://media.giphy.com/media/lmFm5QZMzdmQ8/giphy.gif" width="200" height="120" />
 <img  src="https://media.giphy.com/media/3s0ddui7kadGg/giphy.gif" width="200" height="120" />
+<img  src="https://media.giphy.com/media/lmFm5QZMzdmQ8/giphy.gif" width="200" height="120" />
 </div>
 
 <br>

@@ -1,7 +1,7 @@
 
 # Hey Am Matt!
 
-![meme](http://34.64.134.15/meme)
+
 
 <!--<a href="#"><img alt="C++ Developer" src="https://img.shields.io/badge/C++-Developer-yellow?style=for-the-badge"></a>-->
 <!--![Profile views](https://gpvc.arturio.dev/mattt47?style=for-the-badge)-->

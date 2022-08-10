@@ -56,5 +56,5 @@
 
 
 
-## Contact Me
+## Contact
 <a href="https://discord.com/users/984105962048725042"><img alt="DISCORD" src="https://img.shields.io/badge/Mattt47-Discord-purple?style=for-the-badge"></a>

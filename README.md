@@ -15,7 +15,7 @@
 
 
 <a href="#"><img alt="C Developer" src="https://img.shields.io/badge/C-Developer-darkred?style=for-the-badge"></a>
-<a href="#"><img alt="Flutter Developer" src="https://img.shields.io/badge/Flutter-%20Developer-lightblue?style=for-the-badge"></a>
+<a href="#"><img alt="Dart Developer" src="https://img.shields.io/badge/Flutter-%20Developer-lightblue?style=for-the-badge"></a>
 <a href="#"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=mattt47&style=for-the-badge&color=ff69b4"></a>
 <!--<a href="#"><img alt="ExpressJs Backend Developer" src="https://img.shields.io/badge/ExpressJs-Backend Developer-purple?style=for-the-badge"></a>-->
 

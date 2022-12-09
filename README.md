@@ -58,4 +58,4 @@
 
 
 ## Contact
-<a href="https://discord.com/users/984105962048725042"><img alt="DISCORD" src="https://img.shields.io/badge/Yuuji-Discord-purple?style=for-the-badge"></a>
+<a href="https://discord.com/users/984105962048725042"><img alt="DISCORD" src="https://img.shields.io/badge/Kenn-Discord-purple?style=for-the-badge"></a>

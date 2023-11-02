@@ -31,7 +31,7 @@
 ![CLI](https://img.shields.io/badge/CLI-%2300599C.svg?style=for-the-badge&logo=CLI&logoColor=white)
 ![LXD/LXC](https://img.shields.io/badge/LXD/LXC-%2300f.svg?style=for-the-badge&logo=LXD/LXC&logoColor=white)
 
-# Networking:
+# Networking Stack:
 ![IPv4](https://img.shields.io/badge/IPv4-%23FF5733.svg?style=for-the-badge&logo=IP&logoColor=white)
 ![IPv4Subnetting](https://img.shields.io/badge/IPv4Subnetting-%23C70039.svg?style=for-the-badge&logo=IP&logoColor=white)
 ![RIP](https://img.shields.io/badge/RIP-%2300702E.svg?style=for-the-badge&logo=RIP&logoColor=white)

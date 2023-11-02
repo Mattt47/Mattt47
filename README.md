@@ -33,16 +33,16 @@
 
 # Networking Stack:
 ![IPv4](https://img.shields.io/badge/IPv4-%23FF5733.svg?style=for-the-badge&logo=IP&logoColor=white)
-![IPv4Subnetting](https://img.shields.io/badge/IPv4Subnetting-%23C70039.svg?style=for-the-badge&logo=IP&logoColor=white)
-![RIP](https://img.shields.io/badge/RIP-%2300702E.svg?style=for-the-badge&logo=RIP&logoColor=white)
-![BGP](https://img.shields.io/badge/BGP-%230028E0.svg?style=for-the-badge&logo=BGP&logoColor=white)
-![MPLS](https://img.shields.io/badge/MPLS-%23Clojure?style=for-the-badge&logo=MPLS&logoColor=white)
-![VLAN](https://img.shields.io/badge/VLANs-%23E67E22.svg?style=for-the-badge&logo=VLAN&logoColor=white)
+![Subnetting](https://img.shields.io/badge/IPv4Subnetting-%23C70039.svg?style=for-the-badge&logo=IP&logoColor=white)
 ![OSI Model](https://img.shields.io/badge/OSI-%236C3483.svg?style=for-the-badge&logo=OSI&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-%232E86C1.svg?style=for-the-badge&logo=TCP/IP&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-%231D8348.svg?style=for-the-badge&logo=DNS&logoColor=white)
 ![DHCP](https://img.shields.io/badge/DHCP-%23B9770E.svg?style=for-the-badge&logo=DHCP&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN-%23E67E22.svg?style=for-the-badge&logo=VLAN&logoColor=white)
 ![NAT](https://img.shields.io/badge/NAT-F5788D.svg?style=for-the-badge&logo=NAT&logoColor=white)
+![RIP](https://img.shields.io/badge/RIP-%2300702E.svg?style=for-the-badge&logo=RIP&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-%230028E0.svg?style=for-the-badge&logo=BGP&logoColor=white)
+![MPLS](https://img.shields.io/badge/MPLS-%23Clojure?style=for-the-badge&logo=MPLS&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=takeda0x64&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>

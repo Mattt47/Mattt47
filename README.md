@@ -26,7 +26,7 @@
 ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![LXD/LXC](https://img.shields.io/badge/LXD/LXC-%2300f.svg?style=for-the-badge&logo=LXD/LXC&logoColor=white)
 
-# Networking Stack:
+# 🖧 Networking Stack:
 ![IPv4](https://img.shields.io/badge/IPv4-%23FF5733.svg?style=for-the-badge&logo=IP&logoColor=white)
 ![Subnetting](https://img.shields.io/badge/IPv4Subnetting-%23C70039.svg?style=for-the-badge&logo=IP&logoColor=white)
 ![OSI Model](https://img.shields.io/badge/OSI-%236C3483.svg?style=for-the-badge&logo=OSI&logoColor=white)
